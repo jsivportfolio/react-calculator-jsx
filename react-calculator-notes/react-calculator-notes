@@ -1,0 +1,30 @@
+node_modules folder
+    - contains node packages used in the project
+
+public folder
+    - available to the browser
+    - pulled to the browser with the id of root
+
+src folder
+    - project workspace
+
+package.json
+    - configuration for the project
+
+index.js
+    - entry point to the application
+
+components folder
+    - is where we store are project components
+
+Library | styled-components
+    - yarn add styled-components
+
+State in React
+    - application will react to changes in the application State
+    - state is informtion being stored into a variable that is stored in the react framework
+    - state is essentially data
+    - state is controlled by invoking react hooks
+
+    
+
